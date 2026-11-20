@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sana Hazra! 👋
 
-<!--
-**sanahazra/sanahazra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 BCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub Profile! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Java, React & Data Analysis.
+- 💻 Interested in Web Development and Software Development.
+- 📊 Exploring Data Analytics and Problem Solving.
+- 🚀 Building projects and learning new technologies.
+
+### 🛠️ Skills & Technologies
+
+- HTML
+- Python
+- CSS
+- JavaScript
+- React
+- Java
+- PHP
+- MySQL
+- Data Analysis
+
+### 📂 My Projects
+
+- Student Management System
+
+### 🎯 Goals
+To become a skilled Software Developer and Data Analyst.
+
+### 🤝 Connect With Me
+- GitHub: Sana Hazra
+
+✨ Thanks for visiting my profile!
