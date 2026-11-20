@@ -11,15 +11,7 @@ Welcome to my GitHub Profile!
 
 ### 🛠️ Skills & Technologies
 
-- HTML
-- Python
-- CSS
-- JavaScript
-- React
-- Java
-- PHP
-- MySQL
-- Data Analysis
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java,python,php,mysql,git,github,vscode)
 
 ### 📂 My Projects
 
