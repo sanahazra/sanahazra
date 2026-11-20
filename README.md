@@ -23,7 +23,7 @@ Welcome to my GitHub Profile!
 
 ### 📂 My Projects
 
-- Student Management System
+- [Student Management System](https://github.com/sanahazra/Student-Management-System)
 
 ### 🎯 Goals
 To become a skilled Software Developer and Data Analyst.
